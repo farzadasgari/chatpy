@@ -1,0 +1,130 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you?",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "What's up?",
+        "Howdy"
+      ],
+      "responses": [
+        "Hey! How can I assist you today?",
+        "Hello! Thanks for stopping by.",
+        "Hi there! How can I help you?",
+        "Greetings! What can I do for you today?",
+        "Hello, how's it going?",
+        "Hi, how can I assist you today?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Catch you later",
+        "I'm leaving",
+        "Take care"
+      ],
+      "responses": [
+        "See you later! Thanks for visiting.",
+        "Goodbye! Have a great day.",
+        "Bye! Looking forward to your next visit.",
+        "Take care! Come back soon.",
+        "See you soon! Stay safe."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!",
+        "I appreciate it",
+        "Much appreciated"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Happy to help!",
+        "Any time!",
+        "My pleasure!",
+        "Glad I could assist.",
+        "No problem!"
+      ]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?",
+        "Can you list your products?",
+        "What products do you offer?"
+      ],
+      "responses": [
+        "We offer a variety of coffee and tea.",
+        "Our selection includes coffee and tea.",
+        "We sell a range of coffee and tea options.",
+        "You can choose from our coffee and tea collection.",
+        "We have different types of coffee and tea."
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?",
+        "What payment methods do you accept?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard, and Paypal.",
+        "You can pay using VISA, Mastercard, or Paypal.",
+        "We accept most major credit cards, and Paypal.",
+        "Our payment options include credit cards and Paypal.",
+        "We take credit cards and Paypal."
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?",
+        "What's the delivery time?",
+        "How fast is the shipping?"
+      ],
+      "responses": [
+        "Delivery typically takes 2-4 days.",
+        "Shipping usually takes 2-4 days.",
+        "You can expect delivery within 2-4 days.",
+        "Our delivery time is 2-4 days.",
+        "Shipping is generally completed within 2-4 days."
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?",
+        "Make me laugh",
+        "Say something funny"
+      ],
+      "responses": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What do you get when you cross a snowman and a vampire? Frostbite.",
+        "Why did the coffee file a police report? It got mugged.",
+        "What’s orange and sounds like a parrot? A carrot.",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!"
+      ]
+    }
+  ]
+}

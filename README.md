@@ -23,6 +23,7 @@ This is a simple chatbot created using Python and Natural Language Processing (N
 <div align="center">
   <img src="https://github.com/farzadasgari/chatpy/blob/main/images/screen.PNG?raw=true">
 </div>
+
 ## Getting Started
 
 1. Clone the repository:
